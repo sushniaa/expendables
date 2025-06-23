@@ -1,0 +1,115 @@
+names:
+- rice leaf roller
+- asiatic rice borer
+- yellow rice borer
+- rice leaf caterpillar
+- rice stem borer
+- bronze orange bug
+- corn borer
+- fall army worm
+- armyworm
+- beet army worm
+- rice water weevil
+- red spider mite
+- pink hibiscus mealybug
+- citrus mealybug
+- rice leafhopper
+- white backed plant hopper
+- small brown plant hopper
+- brown plant hopper
+- leafhopper
+- grain spreader thrips
+- rice shell pest
+- aphids
+- citrus psylla
+- citrus spiny whitefly
+- citrus leaf miner
+- green bug
+- english grain aphid
+- bird cherry-oat aphid
+- pea aphid
+- corn leaf aphid
+- wheat blossom midge
+- pentaleus major
+- longlegged spider mite
+- wheat phloeothrips
+- grub
+- mole cricket
+- wireworm
+- white margined moth
+- black cutworm
+- large cutworm
+- yellow cutworm
+- cotton bollworm
+- tobacco budworm
+- tomato hornworm
+- aphid lion
+- ladybird beetle
+- ground beetle
+- rover ant
+- webbing clothes moth
+- casemaking clothes moth
+- house fly
+- oriental latrine fly
+- lesser house fly
+- stable fly
+- face fly
+- cluster fly
+- blow fly
+- flesh fly
+- house mosquito
+- malaria mosquito
+- culex mosquito
+- yellow fever mosquito
+- tobacco moth
+- almond moth
+- raisin moth
+- american cockroach
+- australian cockroach
+- oriental cockroach
+- german cockroach
+- brown-banded cockroach
+- field cockroach
+- smoky brown cockroach
+- pavement ant
+- argentine ant
+- pharaoh ant
+- thief ant
+- carpenter ant
+- red imported fire ant
+- black widow
+- brown recluse
+- hobo spider
+- yellow sac spider
+- wolf spider
+- orb weaver spider
+- jumping spider
+- cobweb spider
+- cellar spider
+- crab spider
+- vinegaroon
+- scorpion
+- tick
+- mite
+- bed bug
+- head louse
+- body louse
+- dog flea
+- cat flea
+- human flea
+- rice leaf beetle
+- colorado potato beetle
+- bean leaf beetle
+- flea beetle
+- cucumber beetle
+- red flour beetle
+- sawtoothed grain beetle
+- merchant grain beetle
+- larder beetle
+- drugstore beetle
+- cigarette beetle
+- confused flour beetle
+nc: 110
+test: /kaggle/input/ip102-yolov5/IP102_YOLOv5/images/val/
+train: /kaggle/input/ip102-yolov5/IP102_YOLOv5/images/train/
+val: /kaggle/input/ip102-yolov5/IP102_YOLOv5/images/train/
