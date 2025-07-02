@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+torch
+pillow
+pandas
+ultralytics
+truefoundry-ml
